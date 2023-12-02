@@ -1,3 +1,4 @@
+package Day01;
 import java.util.Scanner;
 import java.io.*;
 
@@ -9,7 +10,7 @@ public class Day01 {
 		int calibrationDigit = 0; //Total is the calibration digit	
 		
 		try {
-			File inputText = new File("D:\\Java Workspace\\AdventOfCode\\src\\Day01Text.txt"); //Puzzle input saved to txt file
+			File inputText = new File("./src/Day01/Day01Text.txt"); //Puzzle input saved to txt file
 			Scanner scanner = new Scanner(inputText); //New scanner opened to scan the txt file
 			
 			while(scanner.hasNextLine()) { //Loop to continue while a new line is present
