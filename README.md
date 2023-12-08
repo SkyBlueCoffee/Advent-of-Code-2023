@@ -7,5 +7,5 @@ Day 03 - Completed
 Day 04 - Completed  
 Day 05 - Not attempted (Not enough time)  
 Day 06 - Completed  
-Day 07 - Attempted, not completed  
-Day 08 - Attempted, part one completed
+Day 07 - Attempted: part one not completed 
+Day 08 - Attempted: part one completed, part two not completed
